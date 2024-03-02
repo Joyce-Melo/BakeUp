@@ -6,7 +6,8 @@ Bem-vindo ao repositório do site Bake Up, uma confeitaria especializada em bolo
 * Sobre Nós: Aqui, compartilhamos a história da confeitaria, nossa paixão por bolos e os valores que nos guiam.
 * Serviços: Uma sessão dedicada aos serviços oferecidos pela Bake Up. Os visitantes podem se inspirar e ver o talento da nossa equipe.
 * Contato: Os clientes podem entrar em contato conosco através de um formulário simples ou encontrar nossas informações de contato.
-* Como Contribuir:
+
+** Como Contribuir: **
 Se você deseja contribuir para o site Bake Up, siga estas etapas:
 
 * Clone o Repositório: Clone este repositório para o seu ambiente local usando o seguinte comando:
